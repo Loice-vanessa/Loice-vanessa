@@ -34,20 +34,46 @@
 ### 🛠️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,r,scala,lua,html,css&theme=dark" />
 </p>
 
-### 🤖 AI, Robotics & Data
+### 🎨 Frontend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,arduino,raspberrypi,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,tailwind,bootstrap,sass,vite&theme=dark" />
 </p>
 
-### ⚙️ Tools & Platforms
+### 🧩 Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws,gcp,mysql,mongodb,postgresql,nodejs,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,dotnet,graphql&theme=dark" />
 </p>
+
+### 🤖 AI, Robotics & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,jupyter,anaconda,matlab,arduino,raspberrypi,unity,unreal&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,oracle,firebase&theme=dark" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,aws,azure,gcp,terraform,ansible,linux&theme=dark" />
+</p>
+
+### 🧰 Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,vim,androidstudio,figma,postman,blender,photoshop,notion&theme=dark" />
+</p>
+
+<sub>🌱 Broad, hands-on exposure across the stack above — actively deepening in AI/ML and data science.</sub>
 
 <br/>
 
