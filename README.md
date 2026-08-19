@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/vanessa-icyeza/"><img src="https://img.shields.io/badge/LinkedIn-vanessa--icyeza-0B3D91?style=flat-square&logo=linkedin&logoColor=white&labelColor=070A1F" /></a>
-<a href="mailto:sagahutugerard11@gmail.com"><img src="https://img.shields.io/badge/Email-sagahutugerard11%40gmail.com-F0A431?style=flat-square&logo=gmail&logoColor=white&labelColor=070A1F" /></a>
+<a href="mailto:icyezavanessa@gmail.com"><img src="https://img.shields.io/badge/Email-icyezavanessa%40gmail.com-F0A431?style=flat-square&logo=gmail&logoColor=white&labelColor=070A1F" /></a>
 <a href="https://github.com/Loice-vanessa/AIC-AI-PROJECT"><img src="https://img.shields.io/badge/Now%20building-KigaliRide-6A0DAD?style=flat-square&logo=github&logoColor=white&labelColor=070A1F" /></a>
 
 </div>
@@ -109,5 +109,5 @@
 <div align="center">
 <img src="assets/footer.svg" width="100%" alt=""/>
 
-<sub>Thanks for stopping by — let's build something. → <a href="https://www.linkedin.com/in/vanessa-icyeza/">LinkedIn</a> · <a href="mailto:sagahutugerard11@gmail.com">Email</a></sub>
+<sub>Thanks for stopping by — let's build something. → <a href="https://www.linkedin.com/in/vanessa-icyeza/">LinkedIn</a> · <a href="mailto:icyezavanessa@gmail.com">Email</a></sub>
 </div>
