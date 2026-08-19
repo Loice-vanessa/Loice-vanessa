@@ -25,7 +25,6 @@
 - 🤖 **Robotics & AI engineer** — interested in embedded systems, computer vision, and intelligent agents
 - 📊 **Data scientist** — cleaning messy real-world data, exploratory analysis, and turning numbers into decisions
 - 🧠 I **train models** — from classic ML (trees, forests, regression) toward deep learning
-- 🔭 Currently shipping **[KigaliRide](https://github.com/Loice-vanessa/AIC-AI-PROJECT)** — predicting late moto-taxi rides in Kigali before they happen
 - 🌱 Always adding a new language or framework to the toolbox
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vanessa-icyeza/) or by [email](mailto:sagahutugerard11@gmail.com)
 
