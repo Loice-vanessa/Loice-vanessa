@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:F0A431&height=220&section=header&text=Hi%20there,%20I'm%20Vanessa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Turning%20data%20into%20decisions&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:6A0DAD,100:F0A431&height=230&section=header&text=Hi%20there,%20I'm%20Vanessa%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Developer%20%C2%B7%20AI%20%26%20Robotics%20Engineer%20%C2%B7%20Data%20Scientist&descAlignY=52&descSize=17" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=F0A431&center=true&vCenter=true&width=650&lines=Building+software+across+languages+%26+stacks;Training+ML+models+that+solve+real+problems;Bridging+AI+%2B+Robotics+%2B+Data+Science;Currently+shipping%3A+KigaliRide+%F0%9F%8F%8D%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/vanessa-icyeza/">
   <img src="https://img.shields.io/badge/LinkedIn-vanessa--icyeza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,18 +21,32 @@
 
 ### 👩🏽‍💻 About me
 
-- 🔭 Currently working on **[KigaliRide](https://github.com/Loice-vanessa/AIC-AI-PROJECT)** — a data science project predicting late moto-taxi rides in Kigali
-- 🌱 Learning **pandas**, **scikit-learn**, and exploratory data analysis
-- 🎯 Interested in **machine learning**, **data cleaning & EDA**, and turning messy real-world data into decisions
-- 💬 Ask me about ride-lateness prediction, data cleaning, or anything data-science-101
+- 💻 **Software developer** working across multiple languages and stacks — not married to one toolchain
+- 🤖 **Robotics & AI engineer** — interested in embedded systems, computer vision, and intelligent agents
+- 📊 **Data scientist** — cleaning messy real-world data, exploratory analysis, and turning numbers into decisions
+- 🧠 I **train models** — from classic ML (trees, forests, regression) toward deep learning
+- 🔭 Currently shipping **[KigaliRide](https://github.com/Loice-vanessa/AIC-AI-PROJECT)** — predicting late moto-taxi rides in Kigali before they happen
+- 🌱 Always adding a new language or framework to the toolbox
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vanessa-icyeza/) or by [email](mailto:sagahutugerard11@gmail.com)
 
 <br/>
 
-### 🛠️ Tools & Tech
+### 🛠️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,jupyter,vscode,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,go,rust,php,ruby,swift,kotlin,dart,html,css&theme=dark" />
+</p>
+
+### 🤖 AI, Robotics & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,arduino,raspberrypi,r&theme=dark" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws,gcp,mysql,mongodb,postgresql,nodejs,react&theme=dark" />
 </p>
 
 <br/>
@@ -52,8 +72,12 @@
   <img src="https://streak-stats.demolab.com/?user=Loice-vanessa&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Loice-vanessa&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A431,100:0B3D91&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A431,50:6A0DAD,100:0B3D91&height=100&section=footer" width="100%"/>
 
 </div>
